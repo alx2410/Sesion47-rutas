@@ -1,7 +1,7 @@
 import { useParams } from "react-router-dom";
 import { listaProductos} from "../assets/productos"
 
-export function Detalles(){
+export function Detalle(){
     const {id} = useParams()
     const producto = listaProductos.find(p=> p.id === Number(id))
 
