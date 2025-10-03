@@ -9,6 +9,11 @@ createRoot(document.getElementById('root')).render(
     <BrowserRouter>
     <App />
     </BrowserRouter>
+
+
+    <BrowserRouter basename="/Sesion47-rutas">
+	</BrowserRouter>
+
     
   </StrictMode>,
 )
