@@ -202,3 +202,69 @@
 .btn-comprar:hover {
   background-color: #81c784;
 }
+
+
+/* ---- Estilos formulario de contacto ---- */
+
+#contacto {
+  background-color: #fefefe; /* fondo claro */
+  border: 2px solid #f3e8ff; /* borde lila pastel */
+  border-radius: 12px;
+  padding: 30px;
+  max-width: 500px;
+  margin: 40px auto;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  font-family: "Poppins", sans-serif;
+}
+
+#contacto h2 {
+  color: #4a148c; /* morado oscuro */
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#contacto label {
+  font-weight: 600;
+  color: #333;
+}
+
+#contacto input,
+#contacto textarea {
+  width: 100%;
+  padding: 10px 12px;
+  margin-top: 6px;
+  border: 2px solid #e0c9ff; /* lila suave */
+  border-radius: 8px;
+  background-color: #faf8ff;
+  font-size: 15px;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+#contacto input:focus,
+#contacto textarea:focus {
+  outline: none;
+  border-color: #a5d6a7; /* verde pastel */
+  box-shadow: 0 0 6px rgba(165, 214, 167, 0.6);
+}
+
+#contacto p {
+  margin: 5px 0 0 0;
+  font-size: 13px;
+  color: #ff6f61; /* coral pastel para errores */
+}
+
+#contacto button {
+  display: block;
+  width: 100%;
+  background-color: white; /* verde pastel */
+  color: #4a148c;
+  border: none;
+  padding: 12px;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 20px;
+  transition: background-color 0.2s;
+}
+
+
