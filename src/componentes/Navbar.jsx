@@ -12,7 +12,7 @@ export function Navbar() {
             className="w-10 h-10 rounded-md object-cover"
           />
           <span >
-            La casa de la oficina
+            PaperLine
           </span>
         </Link>
 

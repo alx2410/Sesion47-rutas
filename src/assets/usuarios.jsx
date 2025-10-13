@@ -19,8 +19,8 @@
 { id: 15, imgUrl: 'https://ingenieriademenu.com/wp-content/uploads/2025/06/Traje-sastre-femenino-2.jpg', name: 'Úrsula Moya', title: 'Coordinadora de Eventos' },
 { id: 16, imgUrl: 'https://www.shutterstock.com/image-photo/male-graphic-designer-working-tablet-600nw-2595343003.jpg', name: 'Víctor Nieves', title: 'Diseñador Gráfico' },
 { id: 17, imgUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxlBWruTZNQqNFPXD3a4dKM7wcTE1lpSS7Xw&s', name: 'Wendy Ochoa', title: 'Auditora Interna' },
-{ id: 18, imgUrl: 'https://ejemplo.com/imagen18.jpg', name: 'Xavier Pardo', title: 'Investigador de Mercados' },
-{ id: 19, imgUrl: 'https://ejemplo.com/imagen19.jpg', name: 'Yolanda Quintero', title: 'Coach Ejecutiva' },
-{ id: 20, imgUrl: 'https://ejemplo.com/imagen20.jpg', name: 'Zoe Ríos', title: 'Abogada Corporativa' },
+{ id: 18, imgUrl: 'https://hotmart.com/media/2023/11/image-como-ser-afiliado.webp', name: 'Xavier Pardo', title: 'Investigador de Mercados' },
+{ id: 19, imgUrl: 'https://paolapozzi.com/wp-content/uploads/IMAGEN-MUJER-OPTIMIZADA-.jpg', name: 'Yolanda Quintero', title: 'Coach Ejecutiva' },
+{ id: 20, imgUrl: 'https://www.shutterstock.com/image-photo/portrait-beautiful-young-business-woman-600nw-2481341233.jpg', name: 'Zoe Ríos', title: 'Abogada Corporativa' },
 ];
 

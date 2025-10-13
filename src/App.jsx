@@ -7,6 +7,7 @@ import { Productos } from './paginas/Productos'
 import { Navbar } from './componentes/Navbar'
 import { Detalles } from './paginas/Detalles'
 import FormularioContactoSimple from './paginas/Contacto';
+import { Footer } from './componentes/Footer'
 function App() {
 
 
@@ -21,6 +22,8 @@ function App() {
       <Route path='/productos/:id' element={<Detalles/>}></Route>
       <Route path='/contacto' element={<FormularioContactoSimple/>}></Route>
     </Routes>
+    <Footer/>
+
 
     </>
   )

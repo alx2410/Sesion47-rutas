@@ -5,14 +5,10 @@ export function Inicio(){
 
     return(
         <div>
-      <h1 className="text-3xl font-bold text-purple-600/60 my-[200px] hover:text-pink-400">Bienvenid@ a mi Pagina</h1><br />
+      <h1 className="text-3xl font-bold text-purple-600/60 my-[200px] hover:text-pink-400">Bienvenid@ a PaperLine</h1><br />
       
-      <p className="text-lg">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis consectetur perspiciatis itaque sint ea rem praesentium harum suscipit illo animi quibusdam quo, ut sunt inventore accusantium quis aperiam amet nam?</p><br />
-        <ul>
-          <li className="before:bg-pink-50">Nosotros</li>
-          <li>Contacto</li>
-          <li>Productos</li>
-        </ul> 
+      <p className="text-lg">Somos una empresa dedicada a ofrecer productos y servicios de calidad, comprometidos con la satisfacción de nuestros clientes y el desarrollo constante de nuestra comunidad.</p><br />
+       
 
         <div  className="grid grid-cols-4 gap-6 justify-items-center">
           {usersData.map((user)=>

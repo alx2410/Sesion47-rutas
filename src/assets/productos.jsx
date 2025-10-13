@@ -6,28 +6,28 @@ export const listaProductos = [
     nombre: "Juego de Bolígrafos Ejecutivos",
     descripcion: "Bolígrafos de tinta negra y azul con cuerpo metálico para una escritura fluida.",
     precio: 15.99,
-    imagen: "https://via.placeholder.com/150/0000FF/FFFFFF?text=Boligrafos"
+    imagen: "https://http2.mlstatic.com/D_NQ_NP_877641-MPE74415183432_022024-O-boligrafo-de-lujo-hombres-y-mujeres-elegante-juego-de.webp"
   },
   {
     id: 2,
     nombre: "Bloc de Notas Adhesivas Colores",
     descripcion: "Paquete de 10 blocs de notas adhesivas en colores neón variados.",
     precio: 4.50,
-    imagen: "https://via.placeholder.com/150/FFA500/000000?text=Notas+Adhesivas"
+    imagen: "https://m.media-amazon.com/images/I/51KpvBueyFL._UF350,350_QL80_.jpg"
   },
   {
     id: 3,
     nombre: "Organizador de Escritorio de Malla",
     descripcion: "Organizador de 6 compartimentos de malla metálica para útiles de oficina.",
     precio: 19.99,
-    imagen: "https://via.placeholder.com/150/808080/FFFFFF?text=Organizador"
+    imagen: "https://http2.mlstatic.com/D_NQ_NP_669510-MPE74706919682_022024-O-organizador-de-escritorio-organizadores-de-malla-de-4-.webp"
   },
   {
     id: 4,
     nombre: "Ratón Inalámbrico Ergonómico",
     descripcion: "Ratón óptico de 2.4 GHz con diseño ergonómico para largas jornadas de trabajo.",
     precio: 25.00,
-    imagen: "https://via.placeholder.com/150/008000/FFFFFF?text=Ratón"
+    imagen: "https://thumbs.dreamstime.com/b/rat%C3%B3n-de-ordenador-inal%C3%A1mbrico-ergon%C3%B3mico-con-un-dise%C3%B1o-elegante-colocado-en-gris-teclado-el-presenta-una-empu%C3%B1adura-378307764.jpg"
   },
   {
     id: 5,
